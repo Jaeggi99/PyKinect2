@@ -1,4 +1,5 @@
 # PyKinect2
+Summrized update for compatibility with Python 3.12 and 64-bit environments based based on previous pull requests.
 
 Enables writing Kinect applications, games, and experiences using Python.  Inspired by the original [PyKinect project on CodePlex](http://pytools.codeplex.com/wikipage?title=PyKinect).
 
